@@ -1,4 +1,4 @@
-package com.vm.crud.hibernate;
+package com.vm.crud.controller;
 
 
 import javax.validation.Valid;
@@ -11,6 +11,9 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.vm.crud.entity.Student;
+import com.vm.crud.repository.StudentRepository;
 
 
 

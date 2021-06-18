@@ -1,4 +1,4 @@
-package com.vm.crud.hibernate;
+package com.vm.crud.entity;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
